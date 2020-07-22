@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/test-classes" path="src/test/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="D:/Selenium/Assignment8_Selenium/Extra Jar/pdfbox-2.0.12.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium/Assignment8_Selenium/Extra Jar/fontbox-2.0.12.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium/Assignment8_Selenium/Extra Jar/slf4j-log4j12-1.7.26.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium/Assignment8_Selenium/Extra Jar/typesafe-config-2.10.1.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium/Assignment8_Selenium/Extra Jar/amqp-client-4.0.0.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium/Assignment8_Selenium/Extra Jar/commons-lang3-3.0.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium/Assignment8_Selenium/Extra Jar/slf4j-simple-1.7.21.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium/Assignment8_Selenium/Extra Jar/pdfcompare-1.1.48.jar"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
